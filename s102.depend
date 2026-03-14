@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1764081534 source:z:\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1762414956 source:z:\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1765356990 source:z:\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1765357191 source:z:\s102\src\personnage.cpp
+	<SDL_image.h>
+	"Personnage.h"
+
+1767786223 source:c:\but\but1\s102-jeu-video\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1768250881 source:c:\but\but1\s102-jeu-video\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"niveau.h"
+
+1767786223 source:c:\but\but1\s102-jeu-video\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1767789786 source:c:\but\but1\s102-jeu-video\src\personnage.cpp
+	<SDL_image.h>
+	"Personnage.h"
+	"Moteur.h"
+	"niveau.h"
+
+1766071593 source:c:\but\but1\s102-jeu-video\src\tuile.cpp
+	<SDL_image.h>
+	"tuile.h"
+	"Moteur.h"
+	<fstream>
+	<sstream>
+
+1767786223 source:c:\but\but1\s102-jeu-video\src\niveau.cpp
+	<SDL_image.h>
+	"niveau.h"
+	"Moteur.h"
+	<fstream>
+	<sstream>
+	"Image.h"
+
+1769072576 source:c:\but\but1\s1\s102-jeu-video\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1769075630 source:c:\but\but1\s1\s102-jeu-video\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Avatar.h"
+	"Ennemi.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+
+1769072576 source:c:\but\but1\s1\s102-jeu-video\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1769075282 source:c:\but\but1\s1\s102-jeu-video\src\niveau.cpp
+	<fstream>
+	"Niveau.h"
+
+1769074255 source:c:\but\but1\s1\s102-jeu-video\src\personnage.cpp
+	"Personnage.h"
+
+1769075049 source:c:\but\but1\s1\s102-jeu-video\src\avatar.cpp
+	"Avatar.h"
+
+1769073008 source:c:\but\but1\s1\s102-jeu-video\src\dictionnaire.cpp
+	<iostream>
+	<fstream>
+	"Dictionnaire.h"
+
+1769072576 source:c:\but\but1\s1\s102-jeu-video\src\ennemi.cpp
+	"Ennemi.h"
+
+1769072576 source:c:\but\but1\s1\s102-jeu-video\src\objet.cpp
+	"Objet.h"
+
+1768042379 source:c:\but\but1\s1\s102-jeu-video\src\testperso.cpp
+
+1769072576 source:c:\but\but1\s1\s102-jeu-video\src\tuile.cpp
+	<iostream>
+	"Tuile.h"
+
