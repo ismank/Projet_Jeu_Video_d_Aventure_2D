@@ -60,7 +60,7 @@
 	<exception>
 	"Image.h"
 
-1769075630 source:c:\but\but1\s1\s102-jeu-video\src\main.cpp
+1773502163 source:c:\but\but1\s1\s102-jeu-video\src\main.cpp
 	<vector>
 	"Moteur.h"
 	"Image.h"
@@ -73,7 +73,7 @@
 	<SDL_image.h>
 	"Moteur.h"
 
-1769075282 source:c:\but\but1\s1\s102-jeu-video\src\niveau.cpp
+1773502009 source:c:\but\but1\s1\s102-jeu-video\src\niveau.cpp
 	<fstream>
 	"Niveau.h"
 

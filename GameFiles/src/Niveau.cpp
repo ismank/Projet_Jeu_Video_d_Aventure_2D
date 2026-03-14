@@ -80,8 +80,12 @@ int Niveau::indiceObjet(int x, int y, const string& propriete) const
 //question 1.2
 bool Niveau::testerPorte(int x, int y)const
 {
-    if( indiceObjet(x,y,"porte") == -1)
-        return false;
-    else
+    bool test = false;
+    while (test = false)
+    {
+        if( indiceObjet(x,y,"porte") != -1)
         return true;
+    else
+        return false;
+    }
 }
